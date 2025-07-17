@@ -27,7 +27,6 @@ header {
   height: 130px;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #fff;
   margin-bottom: 15px;
 }
 
