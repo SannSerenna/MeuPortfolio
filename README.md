@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio pessoal! Aqui você encontra os principais projetos 
 
 ## 🚀 Sobre Mim
 
-Olá! Sou Sandra, aspirate à desenvolvedora, apaixonadoa por criar soluções criativas e funcionais. Tenho experiência com Back-End Java, desenvolvimento web, design responsivo e estou sempre em busca de novos aprendizados e desafios.
+Olá! Sou Sandra, aspirante à desenvolvedora, apaixonadoa por criar soluções criativas e funcionais. Tenho experiência com Back-End Java, desenvolvimento web, design responsivo e estou sempre em busca de novos aprendizados e desafios.
 
 ## 🛠️ Tecnologias e Ferramentas desse repositório
 
